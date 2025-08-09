@@ -1,4 +1,4 @@
-# tetris-in-mips-assembly
+# Tetris in Mips Assembly
 
 ![Demo](out.gif)
 
